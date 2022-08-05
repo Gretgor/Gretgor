@@ -2,7 +2,7 @@
 - 👀 I’m interested in theoretical and applied computer science.
 - 🌱 I’m currently learning Python, Data Science, and Optimization.
 - 💞️ I’m looking to collaborate on maybe something in the future idk.
-- 📫 How to reach me? I dunno, just DM me.
+- 📫 How to reach me? Send me DMs on GitHub itself.
 
 <!---
 Gretgor/Gretgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
